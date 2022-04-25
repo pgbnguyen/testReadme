@@ -1,13 +1,13 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Bao
 
-#### I am GitHub Readme Generator's creator
+#### I am Full-Stack Developer based in Toronto
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+> Full Stack Developer based in Toronto, Canada with 3 years of experience in the software industry and more than 1 year of experience web production using ReactJs / NodeJs and ASP. Net C# platform. Working as Collaborative Full Stack Engineer at BKG Group, building both backend and frontend for monitoring bridge construction data websites. Bonus experience with Agile, version control (Git), code review, cloud server (Azure ) and unit testing.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: NodeJS / ReactJS / JS / HTML / CSS / C#
 
 - 🔭 I’m currently working on this page.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgbnguyen)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pgbnguyen) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pgbnguyen//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](pgbnguyen.com)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/pgbnguyen&show_icons=true)
